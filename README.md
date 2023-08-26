@@ -1,7 +1,7 @@
 # Github-Workshop
 
 I cloned / forked this repo. I edited thhis through github. Switched to the docs branch. Merge conflict resolved. Make changes.
-
+I am Suchika.
 
 ### Links:
 [Workshop Recording](https://iitgn-ac-in.zoom.us/rec/share/XQMvLTWB21kgrFooP1IUNcvIrbxBDRrjsqEKBGXTfdrCCEFOhvY3u9swaWRPJv_N.1mx9dmRR2NsLBqIM)
