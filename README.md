@@ -1,5 +1,5 @@
 # Github-Workshop
-let's learn how to pull on time
+let's learn how to pull on time. now we are branching and pushing! 
 
 ### Links:
 [Workshop Recording](https://iitgn-ac-in.zoom.us/rec/share/XQMvLTWB21kgrFooP1IUNcvIrbxBDRrjsqEKBGXTfdrCCEFOhvY3u9swaWRPJv_N.1mx9dmRR2NsLBqIM)
