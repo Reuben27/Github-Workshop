@@ -1,5 +1,5 @@
 # Github-Workshop
-Shetty MC - By Gupte :)
+Shetty MC - By Gupte :). Opening New branch in docs
 
 ### Links:
 [Workshop Recording](https://iitgn-ac-in.zoom.us/rec/share/XQMvLTWB21kgrFooP1IUNcvIrbxBDRrjsqEKBGXTfdrCCEFOhvY3u9swaWRPJv_N.1mx9dmRR2NsLBqIM)
