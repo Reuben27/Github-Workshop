@@ -1,5 +1,5 @@
 # Github-Workshop
-I cloned
+I cloned.
 Repository for the GitHub Workshop conducted by Metis.
 
 ### Links:
