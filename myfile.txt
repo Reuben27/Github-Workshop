@@ -7,4 +7,4 @@ Commands we used:
  git push
  git branch
  git pull 
- <p>Hello I am Dakshata</p>
+ <p>Hello I am Dakshata.M-Mtech student at IITGN</p>
