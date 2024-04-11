@@ -1,3 +1,3 @@
 # Github-Workshop
 
-Repository for the GitHub Workshop conducted as part of Web Dev SRC.
+Repository for the GitHub Workshop conducted as part of SRC. Editing the readme file.
